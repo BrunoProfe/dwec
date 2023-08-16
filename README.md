@@ -1,4 +1,4 @@
-# Instalaciones recomendadas - Curso de React
+# Instalaciones recomendadas - Curso de DWEC 2023-24
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
